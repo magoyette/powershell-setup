@@ -58,10 +58,6 @@ Add to the PowerShell profile the following line.
 Import-Module $PSScriptRoot\Modules\posh-git\profile.example.ps1
 ```
 
-## Chocolatey
-
-Install [Chocolatey](https://chocolatey.org). Chocolatey is used to install Jump-Location, since its installation with PowerShellGet fails with an error.
-
 ## Jump-Location
 
 [Jump-Location](https://github.com/tkellogg/Jump-Location) adds a j command that works like a cd that memorize previously visited folders.
