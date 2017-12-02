@@ -4,6 +4,8 @@ My personal PowerShell setup. Used with Windows 7.
 
 PowerShell is executed with ConEmu as a console emulator.
 
+Archived since I'm now using Git Bash with ConEmu on Windows 7.
+
 ## Requirements
 
 - Git must be on the Windows path for posh-git
